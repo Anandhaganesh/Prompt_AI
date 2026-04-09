@@ -1,0 +1,14 @@
+Prompt _1
+
+Explain Hora in Indian Jyothisha in simple terms
+
+Output 
+
+In Jyotisha (Hindu astrology), Hora has a completely different meaning from the circle dance!
+Hora (होरा) is a unit of time equal to one hour. The word itself is derived from the Sanskrit, and it's the root from which the English word "hour" likely came.
+Why does it matter?
+
+Each Hora carries the energy of its ruling planet
+People use it to pick auspicious times for important activities
+For example, Venus Hora is good for romance or creative work; Jupiter Hora is good for learning or finances; Sun Hora is good for leadership tasks
+It's essentially a planetary clock that helps you align your actions with favorable cosmic energies. 🪐
